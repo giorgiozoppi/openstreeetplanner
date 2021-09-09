@@ -1,5 +1,5 @@
 # Road planner exercise.
-This is a simple road planner using the A*Search algorithm.
+This is a simple road planner using the A*Search algorithm. It's an exercise to improve my modern C++.
 
 <img src="astarsearch.png" width="600" height="450" />
 

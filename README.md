@@ -1,8 +1,7 @@
-# Route Planning Project
+# Road planner exercise.
+This is a simple road planner using the A*Search algorithm.
 
-This repo contains the starter code for the Route Planning project.
-
-<img src="map.png" width="600" height="450" />
+<img src="astarsearch.png" width="600" height="450" />
 
 ## Cloning
 
@@ -55,4 +54,3 @@ The testing executable is also placed in the `build` directory. From within `bui
 ```
 ./test
 ```
-

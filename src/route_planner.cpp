@@ -20,7 +20,6 @@ float RoutePlanner::CalculateHValue(RouteModel::Node const *node) {
 }
 
 
-
 void RoutePlanner::AddNeighbors(RouteModel::Node *current_node) {
     current_node->FindNeighbors();
     for (auto node: current_node->neighbors) {
